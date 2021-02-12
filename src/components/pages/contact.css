@@ -1,0 +1,22 @@
+.fa-id-card{
+    padding: 25px;
+}
+.insta,.link,.gmail {
+    margin-top: 100px;
+    padding-left:40px;
+    
+    
+}
+@media only screen and (max-width: 960px) {
+    .insta,.link,.gmail{
+        
+        display: flex;
+        width: 80%;
+    }
+    .imgs{
+        margin-top:500px;
+    }
+      
+  }
+  
+  
